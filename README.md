@@ -1,2 +1,1 @@
-# hydration-tracker
-AP CSP project
+will put the codes and design contents here post-AP season
