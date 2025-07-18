@@ -1,4 +1,6 @@
-# Hydration Tracker
+# Hydration Tracker - Version 0
+
+To be updated! 
 
 A mobile application for tracking daily water intake, built for AP Computer Science Principles Create Performance Task.
 
